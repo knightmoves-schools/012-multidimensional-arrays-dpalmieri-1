@@ -2,5 +2,5 @@
 public class Groups
 {
     // Add your code here
-    public int[,] GroupedNumbers = { {1, 2, 3}, {4, 5, 6} };
+    public int[,] GroupedNumbers = { {1, 3, 5}, {2, 4, 6} };
 }
